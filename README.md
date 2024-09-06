@@ -21,3 +21,6 @@ o usuário recebe as informações com o perfil detalhado dos dois pilotos da eq
 <p>1.  Clone o repositório: </p>
    bash
    git clone https://github.com/seu-usuario/pilotos-f1.git
+
+<h2>Deploy</h2>
+<p>https://edinardo-pereira.github.io/google-gemini/</p>
